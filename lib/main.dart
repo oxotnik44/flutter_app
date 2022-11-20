@@ -54,7 +54,7 @@ class MyApp extends StatelessWidget {
           )),
     );
   }
-
+// артем чурка
   Widget _input(String hint, TextEditingController controller, bool obsecure,
       bool enabled) {
     return Container(
