@@ -5,5 +5,3 @@ void main() {
   runApp(MaterialApp(home: AuthorizationWindow()));
 }
 
-// пqweqweqwe
-
